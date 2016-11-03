@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_6ecf9ad93fb8ed41f74c6892a67fa34c3671b063.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0209d33bbfdff3df0bb7b3537978ce99a4b8206d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_0209d33bbfdff3df0bb7b3537978ce99a4b8206d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6ecf9ad93fb8ed41f74c6892a67fa34c3671b063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_d7bb61b3d74173bc075b155360800a09a1cd5ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-design-23.4.0_d4eff229a5b6681ee6cce4f38efd23e06a26ca4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.github.snowdream.android/smartimageview/0.0.2/ff9790a6d5557dd92fa237f7e288d71fa610e081/smartimageview-0.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ff9790a6d5557dd92fa237f7e288d71fa610e081">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/smartimageview-0.0.2_044d4a55f026e687a9554783770f1e1ae0a38692/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_760a866ecd5523f70f0c4d7dd0049a1d1f8ff038/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_df1556ef6b1f67bddf57aaf9bcb1327c7b42dde8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.4.0_760a866ecd5523f70f0c4d7dd0049a1d1f8ff038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.github.snowdream.android/smartimageview/0.0.2/ff9790a6d5557dd92fa237f7e288d71fa610e081/smartimageview-0.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ff9790a6d5557dd92fa237f7e288d71fa610e081">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/smartimageview-0.0.2_044d4a55f026e687a9554783770f1e1ae0a38692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.4.0_74559555f98ea4fe3368a5a62f53697700e9fe72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_673cda3705324fdf6abae05cdae718a1b8729520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="145d5c021f2d933d202b73dbe1f2bd931431a0f9">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f49b78add10c3a8a448a83c66159b53ff46f7eb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_673cda3705324fdf6abae05cdae718a1b8729520.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_df841e318766054b234a746446b46e5fe677ab6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_df1556ef6b1f67bddf57aaf9bcb1327c7b42dde8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_74559555f98ea4fe3368a5a62f53697700e9fe72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59f36b1b14d4c68977a16fd240bfdce999a369e5">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ca723f4e70e0adc613a125366a70760118b67520/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_0f9e9539a36ccc14f6926db973de0843962334d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/android-async-http-1.4.9_d7bb61b3d74173bc075b155360800a09a1cd5ea8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_d4eff229a5b6681ee6cce4f38efd23e06a26ca4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javier/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0f9e9539a36ccc14f6926db973de0843962334d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/javier/AndroidStudioProjects/CICApp/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.4.0_df841e318766054b234a746446b46e5fe677ab6d.jar" />
+    </item>
+
+</items>

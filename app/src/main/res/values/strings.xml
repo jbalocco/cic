@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CIC App</string>
+    <string name="action_settings">Actualizar</string>
+    <string name="menu_buscar">Buscar</string>
+</resources>
